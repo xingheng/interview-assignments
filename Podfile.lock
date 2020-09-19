@@ -1,0 +1,16 @@
+PODS:
+  - Swifter (1.5.0-rc.1)
+
+DEPENDENCIES:
+  - Swifter (= 1.5.0-rc.1)
+
+SPEC REPOS:
+  trunk:
+    - Swifter
+
+SPEC CHECKSUMS:
+  Swifter: 256770a124f078f6e7d969333cb75989f5445f20
+
+PODFILE CHECKSUM: 365d5aef977f4c346bb79a190afd270e6a438751
+
+COCOAPODS: 1.9.1

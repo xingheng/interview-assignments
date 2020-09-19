@@ -1,0 +1,238 @@
+[
+    {
+        "id": 0,
+        "name": "Vacuum",
+        "brand": "Dyson",
+        "products": [
+            {
+                "id": 0,
+                "name": "V10",
+                "status": 2,
+                "price": 399.99
+            },
+            {
+                "id": 1,
+                "name": "V11",
+                "status": 1,
+                "price": 599.99
+            },
+            {
+                "id": 2,
+                "name": "V22",
+                "status": 1,
+                "price": 599.99
+            },
+            {
+                "id": 3,
+                "name": "V33",
+                "status": 1,
+                "price": 399.99
+            },
+            {
+                "id": 4,
+                "name": "V44",
+                "status": 1,
+                "price": 399.99
+            },
+            {
+                "id": 5,
+                "name": "V55",
+                "status": 2,
+                "price": 399.99
+            },
+            {
+                "id": 6,
+                "name": "V66",
+                "status": 1,
+                "price": 399.99
+            },
+            {
+                "id": 7,
+                "name": "V77",
+                "status": 1,
+                "price": 399.99
+            },
+            {
+                "id": 8,
+                "name": "V88",
+                "status": 1,
+                "price": 399.99
+            },
+            {
+                "id": 9,
+                "name": "V99",
+                "status": 1,
+                "price": 399.99
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Hair Dryer",
+        "brand": "Dyson",
+        "products": [
+            {
+                "id": 0,
+                "name": "Supersonic A",
+                "status": 1,
+                "price": 599.99
+            },
+            {
+                "id": 1,
+                "name": "Supersonic B",
+                "status": 2,
+                "price": 599.99
+            },
+            {
+                "id": 2,
+                "name": "Supersonic C",
+                "status": 1,
+                "price": 399.99
+            },
+            {
+                "id": 3,
+                "name": "Supersonic C",
+                "status": 1,
+                "price": 399.99
+            },
+            {
+                "id": 4,
+                "name": "Supersonic D",
+                "status": 1,
+                "price": 399.99
+            },
+            {
+                "id": 5,
+                "name": "Supersonic E",
+                "status": 1,
+                "price": 399.99
+            },
+            {
+                "id": 6,
+                "name": "Supersonic F",
+                "status": 1,
+                "price": 399.99
+            },
+            {
+                "id": 7,
+                "name": "Supersonic G",
+                "status": 1,
+                "price": 399.99
+            },
+            {
+                "id": 8,
+                "name": "Supersonic H",
+                "status": 2,
+                "price": 399.99
+            },
+            {
+                "id": 9,
+                "name": "Supersonic I",
+                "status": 1,
+                "price": 399.99
+            },
+            {
+                "id": 10,
+                "name": "Supersonic J",
+                "status": 1,
+                "price": 399.99
+            },
+            {
+                "id": 11,
+                "name": "Supersonic K",
+                "status": 1,
+                "price": 399.99
+            },
+            {
+                "id": 12,
+                "name": "Supersonic L",
+                "status": 1,
+                "price": 399.99
+            },
+            {
+                "id": 13,
+                "name": "Supersonic M",
+                "status": 1,
+                "price": 399.99
+            },
+            {
+                "id": 14,
+                "name": "Supersonic N",
+                "status": 1,
+                "price": 399.99
+            },
+            {
+                "id": 15,
+                "name": "Supersonic O",
+                "status": 1,
+                "price": 399.99
+            },
+            {
+                "id": 16,
+                "name": "Supersonic P",
+                "status": 1,
+                "price": 399.99
+            },
+            {
+                "id": 17,
+                "name": "Supersonic Q",
+                "status": 2,
+                "price": 399.99
+            },
+            {
+                "id": 18,
+                "name": "Supersonic R",
+                "status": 1,
+                "price": 399.99
+            },
+            {
+                "id": 19,
+                "name": "Supersonic S",
+                "status": 1,
+                "price": 399.99
+            },
+            {
+                "id": 20,
+                "name": "Supersonic T",
+                "status": 1,
+                "price": 399.99
+            },
+            {
+                "id": 21,
+                "name": "Supersonic U",
+                "status": 2,
+                "price": 399.99
+            },
+            {
+                "id": 22,
+                "name": "Supersonic V",
+                "status": 1,
+                "price": 399.99
+            },
+            {
+                "id": 23,
+                "name": "Supersonic W",
+                "status": 1,
+                "price": 399.99
+            },
+            {
+                "id": 24,
+                "name": "Supersonic X",
+                "status": 1,
+                "price": 399.99
+            },
+            {
+                "id": 25,
+                "name": "Supersonic Y",
+                "status": 1,
+                "price": 399.99
+            },
+            {
+                "id": 26,
+                "name": "Supersonic Z",
+                "status": 2,
+                "price": 399.99
+            }
+        ]
+    }
+]
